@@ -1,0 +1,42 @@
+body{
+
+	font-family: arial;
+	background: #5F9EA0;
+
+}
+
+
+.index{
+	list-style: none;
+	padding: 0;
+	background: #2F4F4F;
+	width: 44%;
+	max-width: 800px;
+	margin: auto;
+
+
+}
+
+
+.index li a{
+
+	text-decoration: none;
+	color: white;
+	padding: 40px;
+	display: block;
+
+}
+
+.index li{
+
+	display: inline-block;
+	text-align: center;
+
+}
+
+.index li:hover{
+
+	background: #ef8354;
+
+}
+
